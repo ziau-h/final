@@ -12,7 +12,7 @@ Before running the project, make sure you have the following installed on your s
 - Python
 - Django
 - Django REST Framework
-- Node.js
+- React
 - npm 
 - Redis
 
@@ -20,11 +20,11 @@ Before running the project, make sure you have the following installed on your s
 Clone this repository to your local machine or download the ZIP file.
 1. Clone this repository to your local machine or download the ZIP file.
 ```bash
-git clone https://github.com/ziau-h/test.git
+git clone https://github.com/ziau-h/final.git
 ```
 2. Navigate to the project directory.
 ```bash
-cd test
+cd final/Project
 ```
 3. Create Virtual environment and activate it
 ```bash
@@ -52,7 +52,7 @@ python manage.py runserver
 ## Setup React Instructions
 1. Navigate to the frontend directory.
 ```bash
-cd frontend
+cd final/Project/frontend
 ```
 
 2. Install the project dependencies.
