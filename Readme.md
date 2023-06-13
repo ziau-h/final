@@ -20,11 +20,11 @@ Before running the project, make sure you have the following installed on your s
 Clone this repository to your local machine or download the ZIP file.
 1. Clone this repository to your local machine or download the ZIP file.
 ```bash
-git clone https://github.com/ziau-h/final.git
+git clone https://github.com/ziau-h/test.git
 ```
 2. Navigate to the project directory.
 ```bash
-cd final
+cd test
 ```
 3. Create Virtual environment and activate it
 ```bash
